@@ -9,10 +9,14 @@ Tests have been written in BDD using ReqnRoll which replaces SpecFlow due to its
 Visual Studio is installed on your machine
 RequNRoll Extension is installed via the extension manager
 NUnit is installed in the project
+
 ## Set up and Running the tests
-Clone the project at using the following url
+Clone the project
+
 Ensure all pre reqs are completed
+
 Ensure the project builds
+
 Run the tests via the test explorer in visual studio
 Or
 
